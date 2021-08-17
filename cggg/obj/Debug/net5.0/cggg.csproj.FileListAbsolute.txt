@@ -1,0 +1,16 @@
+C:\Program Files\Git\Cod\cggg\bin\Debug\net5.0\cggg.exe
+C:\Program Files\Git\Cod\cggg\bin\Debug\net5.0\cggg.deps.json
+C:\Program Files\Git\Cod\cggg\bin\Debug\net5.0\cggg.runtimeconfig.json
+C:\Program Files\Git\Cod\cggg\bin\Debug\net5.0\cggg.runtimeconfig.dev.json
+C:\Program Files\Git\Cod\cggg\bin\Debug\net5.0\cggg.dll
+C:\Program Files\Git\Cod\cggg\bin\Debug\net5.0\ref\cggg.dll
+C:\Program Files\Git\Cod\cggg\bin\Debug\net5.0\cggg.pdb
+C:\Program Files\Git\Cod\cggg\obj\Debug\net5.0\cggg.csproj.AssemblyReference.cache
+C:\Program Files\Git\Cod\cggg\obj\Debug\net5.0\cggg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Program Files\Git\Cod\cggg\obj\Debug\net5.0\cggg.AssemblyInfoInputs.cache
+C:\Program Files\Git\Cod\cggg\obj\Debug\net5.0\cggg.AssemblyInfo.cs
+C:\Program Files\Git\Cod\cggg\obj\Debug\net5.0\cggg.csproj.CoreCompileInputs.cache
+C:\Program Files\Git\Cod\cggg\obj\Debug\net5.0\cggg.dll
+C:\Program Files\Git\Cod\cggg\obj\Debug\net5.0\ref\cggg.dll
+C:\Program Files\Git\Cod\cggg\obj\Debug\net5.0\cggg.pdb
+C:\Program Files\Git\Cod\cggg\obj\Debug\net5.0\cggg.genruntimeconfig.cache
